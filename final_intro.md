@@ -34,7 +34,7 @@ The above page has a brief history of Montreal, from it’s beginnings as Ville-
 
 https://en.wikipedia.org/wiki/Red-Light_District,_Montreal
 
-The above page contains a description of the Red-Light District in Montreal. We’ve included it because it is in maps of Ville Marie, but it is just a small area. It isn’t a neighborhood.
+The above page contains a description of the Red-Light District in Montreal. I’ve included it because it is in maps of Ville Marie, but it is just a small area. It isn’t a neighborhood.
 
 https://en.wikipedia.org/wiki/Toronto
 
