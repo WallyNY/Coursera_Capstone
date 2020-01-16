@@ -10,9 +10,22 @@ Another way of doing this analysis would be to consider each postal code prefix 
 
 ### Data
 
-By using the information in the Introduction as well as information contained in the Literature Review section, one can make a table containing all of the postal code prefixes that have land in Ville Marie. The following table contains the postal code prefixes that contain neighborhoods in Ville Marie prefixes, the descriptions of the postal code prefixes’s areas from https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_H, and names of other neighborhoods that are in those postal code prefixes based on Google Maps and the Wikipedia pages about Montreal and Ville Marie.
+By using the information in the Introduction as well as information contained in the Literature Review section, one can make a table containing all of the postal code prefixes that have land in Ville Marie. The following table contains the postal code prefixes that contain neighborhoods in Ville Marie, the descriptions of the postal code prefixes’ areas from
+https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_H
+, and names of other neighborhoods that are in those postal code prefixes based on Google Maps and the Wikipedia pages about Montreal and Ville Marie. The "Neighborhood" column contains the descriptions from the Wikipedia page for postal codes. The Additional Neighborhoods column contains information gleaned from the other sources.
 
-<<< insert table here >>>
+PostalCode|Neighborhood|AdditionalNeighborhoods
+-|-|-
+H2K|Centre-Sud North |Sainte-Marie
+H2L|Centre-Sud South |Gay Village
+H2X|Plateau Mont-Royal Southeast |Quartier Des Spectacles
+H2Y|Old Montreal  |Quartier International De Montréal
+H2Z|Downtown Montreal Northeast | 
+H3A|Downtown Montreal North (McGill University)|Golden Square Mile
+H3B|Downtown Montreal East | 
+H3C|Griffintown (Includes Île Notre-Dame & Île Sainte-Hélène) (Université de Montréal)|Cité du Multimédia, Saint Helen's Island, Notre Dame Island
+H3G|Downtown Montreal Southeast (Concordia University) | 
+H3H|Downtown Montreal Southwest |Shaughnessy Village, part of Mount Royal Park
 
 The coordinates of the postal code prefixes were critical for this study. I got them by googling "coordinates of XXX" where XXX was a postal code. If there were no legal or practical prohibitions, I think I could have scraped the coordinates from the result page in Python. However, the previous labs provided CSV files with the location data, so I decided not to try to scrape Google pages in my Python code. I copied the coordinates from the Google results and put them into a CSV. My Python code converts the strings of characters from Google into numerical coordinates that can be used with FourSquare and Folium.
 
