@@ -62,7 +62,7 @@ The above page contains a map that shows the boundaries of Ville Marie.
 
 https://www.google.com/maps/place/Montreal,+QC+H2L,+Canada/@45.5196257,-73.5705852,15z/data=!3m1!4b1!4m5!3m4!1s0x4cc91bb156926d11:0xcc9a6ca5eaf5dd80!8m2!3d45.522199!4d-73.5641471
 
-The above map shows the area contained in the H2L postal code prefix. It shows that Gay Village is in H2L. It also shows that part of the Le Plateau-Mont-Royal borough is in H2L. Since the prior analysis of Toronto was based on postal codes, we are using postal codes for this analysis even though some postal codes for Ville Marie also include neighborhoods from neighboring boroughs. One reason for doing this because Ville Marie contains Downtown Montreal, and we want to compare Downtown Montreal with Downtown Toronto.
+The above map shows the area contained in the H2L postal code prefix. It shows that Gay Village is in H2L. It also shows that part of the Le Plateau-Mont-Royal borough is in H2L. Since the prior analysis of Toronto was based on postal codes, I am using postal codes for this analysis even though some postal codes for Ville Marie also include neighborhoods from neighboring boroughs. One reason for doing this because Ville Marie contains Downtown Montreal, and I want to compare Downtown Montreal with Downtown Toronto.
 
 https://www.google.com/maps/place/Montreal,+QC+H2X,+Canada/@45.5124287,-73.5844915,14z/data=!3m1!4b1!4m5!3m4!1s0x4cc91a4b85d8bcad:0xe808bc984c0f9884!8m2!3d45.5132931!4d-73.5694014
 
